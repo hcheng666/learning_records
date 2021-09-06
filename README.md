@@ -9,3 +9,4 @@ catalogue
 ## Machine Learning
 ## Deep Learning 
 ## Data Analysis
+## others
